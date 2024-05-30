@@ -1,32 +1,7 @@
-# Profectus
+# The-Modding-Tree
 
-A game engine that grows with you
+An incremental game engine based on The Prestige Tree. It still requires programming knowledge, but it's mostly pretty easy things and copy/pasting.
 
-[![Run on Repl.it](https://repl.it/badge/github/profectus-engine/Profectus)](https://repl.it/github/profectus-engine/Profectus)
+[Look here for a tutorial on getting started with modding with TMT](docs/tutorials/getting-started.md)
 
-[Read the docs](https://moddingtree.com)
-
-## Project setup
-```
-npm install
-```
-
-### Hosts dev server and hot-reloads modules as they're changed
-```
-npm start
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Hosts the production build
-```
-npm run preview
-```
-
-### Runs the tests using vite-jest
-```
-npm run test
-```
+You can look in the [documentation](docs/!general-info.md) for more information on how it all works, or look at the code in layers.js to see what it all looks like.
